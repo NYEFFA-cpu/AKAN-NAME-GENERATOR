@@ -12,3 +12,37 @@ A male born on Sunday is named Kwasi
 A female born on Sunday is named Akosua
 
 This naming tradition is still widely practiced in Ghana and among the diaspora communities worldwide.
+
+Clone the repository
+
+bash
+git clone git@github.com:NYEFFA-cpu/AKAN-NAME-GENERATOR.git
+Navigate to the project folder
+
+bash
+cd AKAN-NAME-GENERATOR
+Open the project
+
+bash
+# Option 1: Open in VS Code
+code .
+
+# Option 2: Open in your browser
+# Simply double-click the index.html file
+Project Structure
+text
+akan-name-generator/
+├── index.html          # Main HTML structure
+├── style.css           # Custom CSS styles
+├── script.js           # JavaScript logic
+└── README.md           # Project documentation
+Running the Application
+Open index.html in your web browser
+
+Enter your birth date (day, month, year)
+
+Select your gender
+
+Click "Get your Akan Name" button
+
+Your Akan name and day of birth will be displayed
