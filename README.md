@@ -15,6 +15,48 @@ This naming tradition is still widely practiced in Ghana and among the diaspora 
 
 Clone the repository
 
+Deployment to GitHub Pages
+Create a GitHub repository
+
+bash
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/akan-name-generator.git
+git branch -M main
+git push -u origin main
+Enable GitHub Pages
+
+Go to your repository settings
+
+Navigate to the "Pages" section
+
+Set the source to "main" branch
+
+Save and wait for deployment
+
+Access your site at: https://yourusername.github.io/AKAN-NAME-GENERATOR
+
+💻 Technologies Used
+
+HTML   structure
+
+CSS  Custom styling with:
+
+Flexbox for responsive layouts
+
+CSS animations for visual appeal
+
+Glass-morphism design effects
+
+Custom gradients and transitions
+
+JavaScript  
+
+Data validation
+
+Mathematical calculations
+
 bash
 git clone git@github.com:NYEFFA-cpu/AKAN-NAME-GENERATOR.git
 Navigate to the project folder
