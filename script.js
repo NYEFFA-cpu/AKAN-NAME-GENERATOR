@@ -8,7 +8,7 @@
       "Kobina",  // Tuesday
       "Kosi",    // Wednesday
       "kojo",      // Thursday
-      "Gyasi",     // Friday
+      "Dante",     // Friday
       "Kwame"     // Saturday
 
     ];
