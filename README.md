@@ -32,10 +32,10 @@ code .
 Project Structure
 text
 akan-name-generator/
-├── index.html          # Main HTML structure
-├── style.css           # Custom CSS styles
-├── script.js           # JavaScript logic
-└── README.md           # Project documentation
+ index.html          # Main HTML structure
+ style.css           # Custom CSS styles
+ script.js           # JavaScript logic
+ README.md           # Project documentation
 Running the Application
 Open index.html in your web browser
 
